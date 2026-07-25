@@ -4,7 +4,7 @@
 
 > **On the Limits of Quantum and Classical Detectors for Continuous-Variable QKD Attacks**  
 > Agung Trisetyarso  
-> *IEEE Transactions on Machine Learning in Communications and Networking* (submitted, 2026)
+
 
 This repository contains clean, self-contained Python scripts that exactly reproduce the key numerical results, Table I, and all main figures of the paper. All scripts are designed to run instantly in **Google Colab**.
 
