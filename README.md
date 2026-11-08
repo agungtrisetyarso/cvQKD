@@ -2,7 +2,8 @@
 
 **Reproducible simulation code** for the paper:
 
-> **On the Limits of Quantum and Classical Detectors for Continuous-Variable QKD Attacks**  
+> **Error Exponents for Attack Monitoring in Continuous-Variable QKD Links:
+Covariance Sufficiency, Cross-Quadrature Leakage, and a Square-Root Law**  
 > Agung Trisetyarso  
 
 
